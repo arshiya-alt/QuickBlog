@@ -1,15 +1,59 @@
-> Developed a full-stack blogging platform using the MERN stack, allowing users to create, edit, and share personalized blogs.
+## **AI-Powered Blogging Platform (MERN Stack)**
 
-> Integrated OpenAI API to automatically generate high-quality blog content from user-provided titles, enhancing content creation speed and accessibility.
 
->  Implemented secure user authentication using JWT tokens, including protected routes and session handling.
+## **Overview**
 
-> Enabled rich text editing with Quill.js, and seamless image uploads using ImageKit.
+This project is a full-stack blogging platform built using the MERN stack (MongoDB, Express, React, Node.js) with AI integration.
+It allows users to create, edit, and share blogs, while leveraging OpenAI's API to automatically generate high-quality blog content from user-provided titles.
+The platform includes both user features and an admin dashboard for content management.
 
-> Included interactive features like commenting, liking, bookmarking, and user following to improve engagement.
+## **Features**
+AI Blog Generation – Generate blog posts automatically using OpenAI API based on titles.
 
-> Designed a responsive and accessible UI with Tailwind CSS, ensuring smooth performance across all devices.
+Secure Authentication – JWT-based authentication with protected routes and session handling.
 
-> Structured backend with modular Express routes and optimized MongoDB operations for performance and scalability.
+Rich Text Editing – Integrated Quill.js for rich text blog creation.
 
-> Deployed the application on Vercel for fast and reliable serverless hosting.
+Image Uploads – Seamless image management using ImageKit.
+
+Interactive Features – Commenting, liking, bookmarking, and following other users.
+
+Admin Dashboard – Create, edit, delete blogs, and manage comments from one place.
+
+Responsive UI – Built with Tailwind CSS for mobile-first design.
+
+Optimized Backend – Modular Express routes and efficient MongoDB queries for scalability.
+
+Deployment – Hosted on Vercel for fast, serverless hosting.
+
+## **Tech Stack**
+
+**Frontend**
+
+React.js
+
+Tailwind CSS
+
+Quill.js
+
+**Backend**
+
+Node.js
+
+Express.js
+
+MongoDB (Mongoose ORM)
+
+## **AI Integration**
+
+OpenAI API
+
+## **Other Tools**
+
+JWT (JSON Web Token) Authentication
+
+ImageKit (Image Upload & Optimization)
+
+Vercel (Deployment)
+
+
